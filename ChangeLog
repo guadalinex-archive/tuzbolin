@@ -1,0 +1,15 @@
+Tuzbolin ChangeLog
+================
+(C) 2008 the Tuzbolin authors.
+
+
+VERSION 1.0
+  Initial Release!
+  CHANGES:
+    * Added Copyright notice to source files that previously hadn't
+    * COPYING and AUTHORS
+    * ChangeLog
+    * Resources cleanup
+
+VERSION 0.1 - 0.9:
+	internal versions, no changelog

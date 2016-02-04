@@ -1,0 +1,18 @@
+////////////////////////////////////
+/Tuzbolin Game Sounds Credits      /
+////////////////////////////////////
+
+The following sound files that is going to be used in the game are credited below. Original file formats are converted all to ogg format with ffmpeg command
+line tool.
+
+
+|-- ambience
+|   `-- 38652_olive_yeah_Allez.mp3 named as 'ambience1.ogg'	-> http://www.freesound.org/usersViewSingle.php?id=351406
+|-- ball kick
+|   `-- football_bounce_2.mp3 named as kick1.ogg		-> http://www.soundsnap.com/user/21
+|-- goalll
+|   `-- 25304__freesound__Gol_Ses2.wav  named as 'goal.ogg'		-> http://www.freesound.org/usersViewSingle.php?id=173513
+|-- kick-off
+|   `-- kickoff3.ogg	-> http://www.soundsnap.com/user/19 (i cut a bit of the sound )
+
+

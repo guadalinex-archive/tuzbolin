@@ -1,0 +1,18 @@
+
+ Tuzbolin - Table soccer simulator featuring Andatuz, the Guadalinex mascot
+ ==========================================================================
+
+ .- Quick start:
+   1 - Edit the config file 'default-conf.yml' with information about your wiimotes including number of avaliable devices and bluetooth addresses
+
+   2 - Launch 'python tuzbolin.py'
+
+   If you are experiencing bad performance in controller response, try tweaking the game desired fps on globals.py.
+
+ .- Dependencies:
+   Pygame
+   Ode python bindings
+   Cwiid python module
+   Python-yaml
+
+   See doc/depends for details
